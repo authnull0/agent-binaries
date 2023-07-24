@@ -1,2 +1,1 @@
-# agent-binaries
-Authnull endpoint agent binaries
+# agent_binaries
